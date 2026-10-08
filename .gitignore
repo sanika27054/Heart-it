@@ -1,0 +1,13 @@
+# Local Python environment and generated files
+backend/venv/
+**/__pycache__/
+*.py[cod]
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+frontend/config.js
+
+# Personal sample health report
+sample heart disease.pdf
